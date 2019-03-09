@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "632229684339",
+    "firebase_url": "https://droidreader-d6898.firebaseio.com",
+    "project_id": "droidreader-d6898",
+    "storage_bucket": "droidreader-d6898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632229684339:android:6342f5ec50136487",
+        "android_client_info": {
+          "package_name": "com.pinkjacket.droidreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632229684339-tbiv2q4ln0qcnp702kohfj42oo1e43o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinkjacket.droidreader",
+            "certificate_hash": "8a26bd3d2f6e1ef4099149be56e616ef2ea47863"
+          }
+        },
+        {
+          "client_id": "632229684339-v4l8pkss0nflr6htg7ua3k1t47qb8ki2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa66p7l2CTKMcQ2bp9IujAbCvZCCRxabY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632229684339-v4l8pkss0nflr6htg7ua3k1t47qb8ki2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
